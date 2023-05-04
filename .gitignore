@@ -187,4 +187,4 @@ Platformio
 .vscode
 
 # build files
-.hex
+/*.hex
